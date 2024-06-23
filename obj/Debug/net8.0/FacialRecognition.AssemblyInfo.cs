@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacialRecognition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a368c1fec1f15267c2a052912c5df8654d11d3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45fb769ba6ebfae851907b4a2935def4c93fcc44")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacialRecognition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacialRecognition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
