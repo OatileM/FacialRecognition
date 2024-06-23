@@ -8,7 +8,7 @@
         public string? Email { get; set; }
         public string? Password { get; set; }
         public string? Phone { get; set; }
-
+        public List <Picture>? pictures { get; set; }
 
         public UserModel(string id)
         {
