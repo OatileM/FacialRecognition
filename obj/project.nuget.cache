@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4aLz1GZMtw4=",
+  "dgSpecHash": "TcUtHSSq2VbyITGjaWRBdJ6wmD5/e/skfYT3Lr7TZHmluKC1WIEgcbgTix1EI9sEevkUK+zJquJQCR8HphDCvw==",
   "success": true,
   "projectFilePath": "C:\\.NET Projects\\Facial Recognition App\\FacialRecognition\\FacialRecognition.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Oatile.Mdlela\\.nuget\\packages\\awssdk.bedrock\\3.7.302.28\\awssdk.bedrock.3.7.302.28.nupkg.sha512",
+    "C:\\Users\\Oatile.Mdlela\\.nuget\\packages\\awssdk.bedrockruntime\\3.7.305\\awssdk.bedrockruntime.3.7.305.nupkg.sha512",
+    "C:\\Users\\Oatile.Mdlela\\.nuget\\packages\\awssdk.core\\3.7.304.19\\awssdk.core.3.7.304.19.nupkg.sha512",
+    "C:\\Users\\Oatile.Mdlela\\.nuget\\packages\\awssdk.s3\\3.7.309.7\\awssdk.s3.3.7.309.7.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,10 +7,16 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Oatile.Mdlela\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.2</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Oatile.Mdlela\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\Oatile.Mdlela\.nuget\packages\awssdk.core\3.7.304.19</PkgAWSSDK_Core>
+    <PkgAWSSDK_S3 Condition=" '$(PkgAWSSDK_S3)' == '' ">C:\Users\Oatile.Mdlela\.nuget\packages\awssdk.s3\3.7.309.7</PkgAWSSDK_S3>
+    <PkgAWSSDK_BedrockRuntime Condition=" '$(PkgAWSSDK_BedrockRuntime)' == '' ">C:\Users\Oatile.Mdlela\.nuget\packages\awssdk.bedrockruntime\3.7.305</PkgAWSSDK_BedrockRuntime>
+    <PkgAWSSDK_Bedrock Condition=" '$(PkgAWSSDK_Bedrock)' == '' ">C:\Users\Oatile.Mdlela\.nuget\packages\awssdk.bedrock\3.7.302.28</PkgAWSSDK_Bedrock>
+  </PropertyGroup>
 </Project>
